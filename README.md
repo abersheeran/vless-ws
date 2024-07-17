@@ -3,7 +3,7 @@
 Set uuid.
 
 ```bash
-wrangler secret put uuid
+npm run uuid
 ```
 
 Deploy.
